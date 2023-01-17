@@ -12,7 +12,7 @@ else:
     with open("sms.py", "w", encoding="utf-8") as f:
         f.write(r)
 from sms import SendSms
-r = get("https://raw.githubusercontent.com/tingirifistik/Enough/main/call.py").text
+r = get("https://raw.githubusercontent.com/asteeq/aste-sms-bomber/main/call.py").text
 with open("call.py", "r", encoding="utf-8") as f:
     read = f.read()
 if read == r:
