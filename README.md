@@ -9,3 +9,9 @@ cd aste-sms-bomber-main
 pip3 install -r requirements.txt
 py astesms.py
 ```
+
+<h2>Kurulum Videosu</h2>
+
+```console
+https://streamable.com/dw6x1z
+```
