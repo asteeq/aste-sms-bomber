@@ -1,1 +1,1 @@
-worker: python3 insta-astebabakee
+worker: python3 telegram-astesms.py
